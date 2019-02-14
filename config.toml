@@ -5,8 +5,7 @@ theme = "mediumish-gohugo-theme"
 summaryLength = 25
 copyright = "Li Wendi - All rights reserved"
 enableEmoji = true
-publishDir = "public"
-#disqusShortname = "october"
+publishDir = "docs"
 
 [params]
   logo = "/images/icon.png"
