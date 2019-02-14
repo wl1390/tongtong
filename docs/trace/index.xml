@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Traces on NIU SHU TONG</title>
+    <link>https://wl1390.github.io/tongtong/trace/</link>
+    <description>Recent content in Traces on NIU SHU TONG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Li Wendi - All rights reserved</copyright>
+    <lastBuildDate>Sat, 05 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://wl1390.github.io/tongtong/trace/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>China</title>
+      <link>https://wl1390.github.io/tongtong/trace/china/</link>
+      <pubDate>Sat, 05 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wl1390.github.io/tongtong/trace/china/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Romania</title>
+      <link>https://wl1390.github.io/tongtong/trace/romania/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wl1390.github.io/tongtong/trace/romania/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>United Arab Emirates</title>
+      <link>https://wl1390.github.io/tongtong/trace/united-arab-emirates/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://wl1390.github.io/tongtong/trace/united-arab-emirates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thailand</title>
+      <link>https://wl1390.github.io/tongtong/trace/thailand/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://wl1390.github.io/tongtong/trace/thailand/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statics on NIU SHU TONG</title>
+    <link>https://wl1390.github.io/tongtong/static/</link>
+    <description>Recent content in Statics on NIU SHU TONG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Li Wendi - All rights reserved</copyright>
+    <lastBuildDate>Wed, 13 Feb 2019 11:12:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://wl1390.github.io/tongtong/static/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://wl1390.github.io/tongtong/static/poetry/</link>
+      <pubDate>Wed, 13 Feb 2019 11:12:00 +0200</pubDate>
+      
+      <guid>https://wl1390.github.io/tongtong/static/poetry/</guid>
+      <description>第一次见面 假装喝水 偷偷打量你 壶里的水 一点一点降下去
+锡比乌 她轻轻唱 左边阳光右边教堂 鸽子咕咕咕啄着面包屑
+我躺在长椅上 把歌声和阳光引过来 混在心里的玻璃罐里 酿成蜜糖
+画你 我拨开挂着露珠的树梢 摘下一颗羞红的樱桃 画你的嘴唇
+我寻遍海边每一寸沙子 找来一片白皙的贝壳 画你的裙子
+我攀上寒风凛冽的山峰 收集一瓶灵动的星光 画的你眼睛
+我回到心里 把画送给你</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://wl1390.github.io/tongtong/static/valentine/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://wl1390.github.io/tongtong/static/valentine/</guid>
+      <description>给童童的信 云</description>
+    </item>
+    
+  </channel>
+</rss>
