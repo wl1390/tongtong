@@ -1,0 +1,54 @@
+baseURL = "https://wl1390.github.io/tongtong/"
+languageCode = "en-us"
+title = "NIU SHU TONG"
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "Li Wendi - All rights reserved"
+enableEmoji = true
+publishDir = "public"
+#disqusShortname = "october"
+
+[params]
+  logo = "/images/icon.png"
+  description ="my most beautiful being on earth"
+
+[params.author]
+  name = "Li Wendi"
+  thumbnail = "/images/author.png"
+  description = "the happiest moments"
+
+[params.index]
+  picture = "/images/author.png"
+  title = " "
+  subtitle = "Li Wendi"
+  mdtext = '''
+I haven't thought of what to put here...\
+'''
+  alertbar = false
+
+[params.social]
+  github = "wl1390"
+  linkedin = "wendi-li-2000"
+ 
+
+## Main Menu
+[[menu.main]]
+    name = "Poetry"
+    weight = 100
+    identifier = "poetry"
+    url = "/static/poetry"
+[[menu.main]]
+    name = "Trace"
+    weight = 100
+    identifier = "trace"
+    url = "/trace"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 100
+    url = "/"
+[[menu.main]]
+    name = "Valentine"
+    identifier = "valentine"
+    weight = 200
+    url = "/static/valentine"
