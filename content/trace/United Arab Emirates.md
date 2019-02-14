@@ -1,7 +1,7 @@
 ---
 title: "United Arab Emirates"
 publishdate: 2018-02-01
-image: "/images/trace/uae.jpg"
+image: "/images/trace/uae/uae01.jpg"
 comments: false
 ---
 

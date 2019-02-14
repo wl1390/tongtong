@@ -1,7 +1,7 @@
 ---
 title: "China"
 publishdate: 2019-01-05
-image: "/images/trace/china.jpg"
+image: "/images/trace/china/china01.jpg"
 comments: false
 ---
 

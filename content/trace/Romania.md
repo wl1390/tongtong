@@ -1,7 +1,7 @@
 ---
 title: "Romania"
 publishdate: 2018-03-14
-image: "/images/trace/romania.jpg"
+image: "/images/trace/romania/romania01.jpg"
 comments: false
 ---
 

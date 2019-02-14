@@ -1,7 +1,7 @@
 ---
 title: "Thailand"
 publishdate: 2017-08-02
-image: "/images/trace/thailand.jpg"
+image: "/images/trace/thailand/thailand01.jpg"
 comments: false
 ---
 
