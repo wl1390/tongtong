@@ -19,9 +19,9 @@ publishDir = "docs"
 [params.index]
   picture = "/images/author.png"
   title = " "
-  subtitle = "Li Wendi"
+  subtitle = "amore"
   mdtext = '''
-I haven't thought of what to put here...\
+you are my most beautiful being on earth\
 '''
   alertbar = false
 
