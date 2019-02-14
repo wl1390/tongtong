@@ -24,6 +24,3 @@ comments: false
 
 
 ![](/tongtong/images/trace/uae/uae07.jpg)
-
-
-![](/tongtong/images/trace/uae/uae08.jpg)
