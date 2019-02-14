@@ -18,12 +18,3 @@ comments: false
 
 
 ![](/tongtong/images/trace/china/china05.jpg)
-
-
-![](/tongtong/images/trace/china/china06.jpg)
-
-
-![](/tongtong/images/trace/china/china07.jpg)
-
-
-![](/tongtong/images/trace/china/china08.jpg)

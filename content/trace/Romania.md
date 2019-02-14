@@ -24,27 +24,3 @@ comments: false
 
 
 ![](/tongtong/images/trace/romania/romania07.jpg)
-
-
-![](/tongtong/images/trace/romania/romania08.jpg)
-
-
-![](/tongtong/images/trace/romania/romania09.jpg)
-
-
-![](/tongtong/images/trace/romania/romania10.jpg)
-
-
-![](/tongtong/images/trace/romania/romania11.jpg)
-
-
-![](/tongtong/images/trace/romania/romania12.jpg)
-
-
-![](/tongtong/images/trace/romania/romania13.jpg)
-
-
-![](/tongtong/images/trace/romania/romania14.jpg)
-
-
-![](/tongtong/images/trace/romania/romania15.jpg)

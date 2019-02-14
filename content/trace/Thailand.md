@@ -63,10 +63,3 @@ comments: false
 
 
 ![](/tongtong/images/trace/thailand/thailand20.jpg)
-
-
-
-![](/tongtong/images/trace/thailand/thailand21.jpg)
-
-
-![](/tongtong/images/trace/thailand/thailand22.jpg)
