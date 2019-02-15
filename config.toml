@@ -12,16 +12,16 @@ publishDir = "docs"
   description ="my most beautiful being on earth"
 
 [params.author]
-  name = "Amore"
+  name = "Li Wendi"
   thumbnail = "/images/author.png"
   description = "the happiest moments"
 
 [params.index]
   picture = "/images/author.png"
   title = " "
-  subtitle = "amore"
+  subtitle = "Li Wendi"
   mdtext = '''
-you are the most beautiful being on earth\
+I haven't thought of what to write here...\
 '''
   alertbar = false
 
